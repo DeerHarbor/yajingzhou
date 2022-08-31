@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: glz1997@tju.edu.cn
-  phone: +86 18802293110
+  email: yjzhou1@outlook.com
+  phone: +86 138
   address:
     street: No.5 Kelian Road
     city: Shenzhen
