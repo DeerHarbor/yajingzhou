@@ -3,7 +3,11 @@ title: Yajing Zhou
 role: Research Assistant
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Clinical Psychology
+  - Forensic Psycholog
+  - Psychiatric Disorder
+  - Personality Disorder
 social:
   - icon: envelope
     icon_pack: fas
