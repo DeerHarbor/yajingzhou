@@ -1,7 +1,8 @@
 ---
 title: Yajing Zhou
 role: Research Assistant
-avatar_filename: avatar.jpg
+-avatar_filename: avatar.jpg
+ url: (http://guotf-lab.szbl.ac.cn/people/1044.html)
 bio: ""
 interests:
   - Clinical Psychology
