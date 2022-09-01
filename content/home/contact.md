@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: yjzhou1@outlook.com
-  phone: +86 138
+  email: zhouyj@szbl.ac.cn
+  phone: +86 13807478148
   address:
     street: No.5 Kelian Road
     city: Shenzhen
