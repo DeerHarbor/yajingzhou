@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Clinical Psychology
-  - Forensic Psycholog
+  - Forensic Psychology
   - Psychiatric Disorder
   - Personality Disorder
 social:
