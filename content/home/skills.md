@@ -25,9 +25,9 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 100%
-    icon: chart-line
+    icon: office
     icon_pack: fas
-    name: SPSS
+    name: Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
