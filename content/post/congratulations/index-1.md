@@ -1,5 +1,6 @@
 ---
-title: Congratulations!
+title: Congratulations! Yajing was granted the Graduate Basis for Chartered
+  Membership (GBC).
 date: 2022-09-04T15:55:57.899Z
 draft: false
 featured: false
