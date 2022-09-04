@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Clinical Psychology
+      tag: Clinical Psychology
     - name: Other
       tag: Demo
 
