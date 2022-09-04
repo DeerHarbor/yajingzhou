@@ -25,8 +25,8 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 100%
-    icon: office
-    icon_pack: fas
+    icon:  fa-file-word
+    icon_pack: fa-regular
     name: Office
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
