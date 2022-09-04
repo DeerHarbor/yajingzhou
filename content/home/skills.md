@@ -25,9 +25,9 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 100%
-    icon: camera-retro
+    icon: spss-project
     icon_pack: fas
-    name: Photography
+    name: SPSS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
