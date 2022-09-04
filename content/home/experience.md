@@ -51,7 +51,19 @@ experience:
         * Psychological assessment 
         * Medicine instruction
         * Medical records 
-
+       
+  - title: Intern 
+    company: Hengjiakang Mental Rehabilitation Hospital
+    company_url: ''
+    company_logo: org-x
+    location: Hunan, China
+    date_start: '2020-09-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Writing medical records
+        * Daily psychological counselling
 design:
   columns: '2'
 ---
