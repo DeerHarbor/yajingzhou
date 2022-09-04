@@ -2,7 +2,7 @@
 title: Congratulations!
 date: 2022-09-04T15:46:23.857Z
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 image:
