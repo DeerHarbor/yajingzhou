@@ -26,4 +26,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yajng worked as an intern in two hospitals successively, where she was responsible for the psychological counseling of patients with mental illness and assisted the associate chief physician in providing outpatient service in the department of clinical psychology respectively. She is experienced in communicating with patients. She is now in charge of cognition assessment and helps other group members with their research projects.
+Yajing is now working as a research assistant to Professor Guo at Shenzhen Bay Laboratory. The Guo lab is engaged in the study of how Aβ and tau affect brain structure and function in ageing people and Alzheimer’s disease (AD) patients using multi-model neuroimaging and biofluid markers including plasma and cerebrospinal fluid (CSF) assays. She is planning to spend the year (2022-2023) gaining research experience and skills to be fully prepared for her future PhD. 
+
+In the past, Yajng worked as an intern in two hospitals successively, where she was responsible for the psychological counselling of patients with mental illness and assisted the associate chief physician in providing outpatient service in the department of clinical psychology respectively. She is experienced in communicating with patients.
