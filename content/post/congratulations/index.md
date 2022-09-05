@@ -1,5 +1,5 @@
 ---
-title: Congratulations!
+title: Yajing graduated with Distinction.
 date: 2022-09-04T15:46:23.857Z
 draft: false
 featured: false
