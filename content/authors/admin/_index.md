@@ -17,7 +17,7 @@ organizations:
     url: https://www.szbl.ac.cn/
 education:
   courses:
-    - course: "2021.9 - 2022.9 MSc, Mental Health: Psychological Therapy,"
+    - course: "2021.9 - 2022.9 MSc, Mental Health: Psychological Therapies"
       institution: Queen Mary Univerisity of London
     - course: 2020.9 - 2021.9 M.S. in Psychological Studies
       institution: University of Aberdeen
