@@ -1,5 +1,5 @@
 ---
-title: Yajing Zhou
+title: Yajing Zhou (周雅婧)
 role: Research Assistant
 avatar_filename: avatar.png
 bio: ""
