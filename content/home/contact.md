@@ -25,7 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: zhouyj@szbl.ac.cn
+  email: ha211706@qmul.ac.uk
+         yjzhou1@outlook.com
   phone: +86 13807478148
   address:
     street: No.5 Kelian Road
