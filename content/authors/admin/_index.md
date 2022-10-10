@@ -4,10 +4,10 @@ role: Research Assistant
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Clinical Psychology
-  - Forensic Psychology
-  - Psychiatric Disorder
-  - Personality Disorder
+  - Clinical psychology
+  - Cognition and brain mechanisms
+  - Serious mental illness
+  - Neurodegenerative disease
 social:
   - icon: envelope
     icon_pack: fas
