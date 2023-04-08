@@ -55,7 +55,7 @@ experience:
   - title: Intern 
     company: Hengjiakang Mental Rehabilitation Hospital
     company_url: ''
-    company_logo: org-x
+    company_logo: org-a
     location: Hunan, China
     date_start: '2020-09-01'
     date_end: '2021-09-01'
