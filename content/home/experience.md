@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant 
     company: Shenzhen Bay Laboratory 
     company_url: 'https://www.szbl.ac.cn/'
-    company_logo: org-gc
+    company_logo: org-lab
     location: Shenzhen
     date_start: '2022-04-08'
     date_end: ''
