@@ -35,8 +35,8 @@ content:
     country: China
     country_code: CHN
   coordinates:
-    latitude: '22.724033'
-    longitude: '113.913925'
+    latitude: '22.72'
+    longitude: '113.91'
   directions: Shenzhen Bay Laboratory 
 
 
