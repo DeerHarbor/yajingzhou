@@ -1,6 +1,6 @@
 ---
 title: Yajing Zhou (周雅婧)
-role: Research Assistant
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -13,8 +13,8 @@ social:
     icon_pack: fas
     link: /#contact
 organizations:
-  - name: Shenzhen Bay Laboratory
-    url: https://www.szbl.ac.cn/
+  - name: King's College London
+    url: https://www.kcl.ac.uk/
 education:
   courses:
     - course: "2021.9 - 2022.9 MSc, Mental Health: Psychological Therapies"
