@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ha211706@qmul.ac.uk
+  email: yajing.zhou@kcl.ac.uk
   phone: +86 13807478148
   address:
     street: No.5 Kelian Road
