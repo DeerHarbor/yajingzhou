@@ -1,6 +1,7 @@
 ---
+title: Yajing Zhou (周雅婧)
 role: Research Assistant
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Clinical psychology
@@ -21,10 +22,9 @@ education:
     - course: 2020.9 - 2021.9 M.S. in Psychological Studies
       institution: University of Aberdeen
       year: ""
+email: ""
 superuser: true
 highlight_name: true
-title: Yajing Zhou (周雅婧)
-email: ""
 ---
 Yajing is now working as a research assistant to Professor Guo at Shenzhen Bay Laboratory. The Guo lab is engaged in the study of how Aβ and tau affect brain structure and function in ageing people and Alzheimer’s disease (AD) patients using multi-model neuroimaging and biofluid markers including plasma and cerebrospinal fluid (CSF) assays. She is planning to spend the year (2022-2023) gaining research experience and skills to be fully prepared for her future PhD. 
 
