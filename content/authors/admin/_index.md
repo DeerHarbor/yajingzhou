@@ -4,10 +4,10 @@ role: PhD Student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Clinical psychology
-  - Cognition and brain mechanisms
-  - Serious mental illness
-  - Neurodegenerative disease
+  - Intellectual Disabilities
+  - Clinical Neuroscience
+  - Neuroimaging
+  - Neurodegenerative Disease
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,10 +22,12 @@ education:
     - course: 2020.9 - 2021.9 M.S. in Psychological Studies
       institution: University of Aberdeen
       year: ""
+    - course: 2023-Present PhD in Forensic and Neurodevelopmental Sciences
+      institution: King’s College London
 email: ""
 superuser: true
 highlight_name: true
 ---
-Yajing is now working as a research assistant to Professor Guo at Shenzhen Bay Laboratory. The Guo lab is engaged in the study of how Aβ and tau affect brain structure and function in ageing people and Alzheimer’s disease (AD) patients using multi-model neuroimaging and biofluid markers including plasma and cerebrospinal fluid (CSF) assays. She is planning to spend the year (2022-2023) gaining research experience and skills to be fully prepared for her future PhD. 
+Yajing Zhou is a PhD student (2023/10 – present) at King’s College London. She focuses primarily on how Aβ and tau affect brain structure and function in people with Down syndrome. She is currently involved in the projects London Down Syndrome Consortium (LonDownS) and GO-DS21. Projects concern detailed cognitive phenotyping of individuals with Down across the lifespan, and tracking change with ageing using MR, EEG and fNIRS neuroimaging, and includes identification of plasma biomarkers of cognitive decline using markers related to inflammation, amyloid, neurodegeneration, and oxidative stress.
 
-In the past, Yajing worked as an intern in two hospitals successively, where she was responsible for the psychological counselling of patients with mental illness and assisted the associate chief physician in providing outpatient service in the department of clinical psychology respectively. She is experienced in communicating with patients.
+Yajing has almost 1.5 years of experience as a research assistant, and she worked as an intern in two hospitals. Therefore, she is adept at interacting with patients of all ages, especially the elderly (cognition unimpaired, mild cognitive impairment, Alzheimer’s disease), and patients with Down Syndrome. On top of that, she has very extensive experience in data collection, data analysis, and recruitment.
