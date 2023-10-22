@@ -66,7 +66,7 @@ experience:
   - title: Master Student
     company: Queen Mary University of London 
     company_url: ''
-    company_logo: org-x
+    company_logo: QMUL
     location: London, UK
     date_start: '2021-09-01'
     date_end: '2022-09-01'
@@ -93,7 +93,7 @@ experience:
   - title: Master Student
     company: University of Aberdeen 
     company_url: ''
-    company_logo: org-x
+    company_logo: abd
     location: Scotland, UK
     date_start: '2020-09-01'
     date_end: '2021-09-01'
