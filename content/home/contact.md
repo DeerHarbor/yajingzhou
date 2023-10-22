@@ -26,18 +26,18 @@ content:
 
   # Contact details (edit or remove options as required)
   email: yajing.zhou@kcl.ac.uk
-  phone: +86 13807478148
+  phone: +44 7547416604
   address:
-    street: No.5 Kelian Road
-    city: Shenzhen
-    region: Guangdong
+    street: 16 De Crespigny Park
+    city: London
+    region: London
     postcode: '94305'
-    country: China
-    country_code: CHN
+    country: United Kingdom
+    country_code: HK
   coordinates:
-    latitude: '22.72'
-    longitude: '113.91'
-  directions: Shenzhen Bay Laboratory 
+    latitude: '51.47047891085169'
+    longitude: ' -0.08979993835722354'
+  directions: Room M1.09, IoPPN main building, Denmark Hill Campus, King’s College London
 
 
 design:
