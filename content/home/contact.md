@@ -30,8 +30,8 @@ content:
   address:
     street: 16 De Crespigny Park
     city: London
-    region: London
-    postcode: '94305'
+    region: United Kingdom
+    postcode: 'SE5 8AF'
     country: United Kingdom
     country_code: HK
   coordinates:
