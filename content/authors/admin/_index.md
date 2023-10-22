@@ -17,13 +17,13 @@ organizations:
     url: https://www.kcl.ac.uk/
 education:
   courses:
+    - course: 2023-Present PhD in Forensic and Neurodevelopmental Sciences
+      institution: King’s College London
     - course: "2021.9 - 2022.9 MSc, Mental Health: Psychological Therapies"
       institution: Queen Mary Univerisity of London
     - course: 2020.9 - 2021.9 M.S. in Psychological Studies
       institution: University of Aberdeen
       year: ""
-    - course: 2023-Present PhD in Forensic and Neurodevelopmental Sciences
-      institution: King’s College London
     - course: 2015-2019 B.E. in Electrical Engineering & Automation
       institution: University of South China
 email: ""
