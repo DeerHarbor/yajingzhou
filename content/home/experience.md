@@ -22,6 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: PhD Student
+    company: King’s College London
+    company_url: ''
+    company_logo: kcl
+    location: London, UK
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Major: Forensic and Neurodevelopmental Sciences
+        * Supervisor: Professor Andre Strydom, Doctor Rory Sheehan
+
+  - title: Graduate Teaching Assistant
+    company: King’s College London
+    company_url: ''
+    company_logo: kcl
+    location: London, UK
+    date_start: '2023-09-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Course name: Introduction to Applied Statistical Methods 2023-2024 [MSc Addictions]
+    
   - title: Research Assistant 
     company: Shenzhen Bay Laboratory 
     company_url: 'https://www.szbl.ac.cn/'
@@ -37,6 +63,18 @@ experience:
         * Neurocognitive assessment
         * Cell experiments
 
+  - title: Master Student
+    company: Queen Mary University of London 
+    company_url: ''
+    company_logo: org-x
+    location: London, UK
+    date_start: '2021-09-01'
+    date_end: '2022-09-01'
+    description: |2-
+        Responsibilities include:
+
+        * Major: Mental Health: Psychological Therapies
+
   - title: Professor assistant 
     company: The First Affiliated Hospital of University of South China 
     company_url: ''
@@ -50,7 +88,19 @@ experience:
         * Outpatient service
         * Psychological assessment 
         * Medicine instruction
-        * Medical records 
+        * Medical records
+    
+  - title: Master Student
+    company: University of Aberdeen 
+    company_url: ''
+    company_logo: org-x
+    location: Scotland, UK
+    date_start: '2020-09-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+
+        * Major: Psychological Studies
        
   - title: Intern 
     company: Hengjiakang Mental Rehabilitation Hospital
