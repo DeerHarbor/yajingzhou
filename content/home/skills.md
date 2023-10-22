@@ -27,7 +27,7 @@ feature:
   - description: 100%
     icon: file
     icon_pack: fas
-    name: Reading
+    name: SPSS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
