@@ -54,7 +54,7 @@ experience:
     company_logo: org-lab
     location: Shenzhen
     date_start: '2022-04-08'
-    date_end: ''
+    date_end: '2023-07-01'
     description: |2-
         Responsibilities include:
         
