@@ -24,6 +24,8 @@ education:
       year: ""
     - course: 2023-Present PhD in Forensic and Neurodevelopmental Sciences
       institution: King’s College London
+    - course: 2015-2019 B.E. in Electrical Engineering & Automation
+      institution: University of South China
 email: ""
 superuser: true
 highlight_name: true
