@@ -24,10 +24,14 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 100%
-    icon: file
-    icon_pack: fas
-    name: SPSS
+  # Example using an SVG image as an icon.
+  # Place a custom SVG icon in an `assets/media/icons/` folder.
+  # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+  - name: SPSS
+    description: 90%
+    icon: spss
+    icon_pack: custom
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
