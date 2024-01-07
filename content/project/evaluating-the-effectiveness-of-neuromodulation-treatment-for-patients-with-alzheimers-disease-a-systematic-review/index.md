@@ -4,6 +4,8 @@ title: "Evaluating the effectiveness of neuromodulation treatment for patients
 date: 2023-01-10T06:20:42.311Z
 draft: false
 featured: false
+categories:
+  - Clinical Psychology
 image:
   filename: featured
   focal_point: Smart
