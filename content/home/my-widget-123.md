@@ -1,6 +1,6 @@
 ---
 widget: Publications
-widget_id: Publications
+widget_id: Featured Publications
 headless: true
 weight: 10
 title: Publications
