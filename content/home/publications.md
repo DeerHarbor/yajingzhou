@@ -1,10 +1,3 @@
-
-title: Publications
-date: 2022-10-24
-type: landing
-
-sections:
-sections:
   - block: collection
     id: featured
     content:
@@ -30,14 +23,3 @@ sections:
     design:
       columns: '2'
       view: citation
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
----
