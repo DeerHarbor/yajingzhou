@@ -1,17 +1,9 @@
----
-# An instance of the Portfolio widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 65
 
 title: Publications
-subtitle: ''
+date: 2022-10-24
+type: landing
 
+sections:
 sections:
   - block: collection
     id: featured
