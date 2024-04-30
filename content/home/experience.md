@@ -33,7 +33,7 @@ experience:
     description: |2-
         Responsibilities include:
         * Major: Forensic and Neurodevelopmental Sciences
-        * Supervisor: Professor Andre Strydom, Doctor Rory Sheehan
+        * Supervisor: [Professor Andre Strydom](https://www.kcl.ac.uk/people/professor-andre-strydom), [Doctor Rory Sheehan](https://www.kcl.ac.uk/people/rory-sheehan)
 
   - title: Graduate Teaching Assistant
     company: King’s College London
