@@ -1,9 +1,9 @@
 ---
-widget: Publications
-widget_id: Featured Publications
+widget: collection
+widget_id: featured
 headless: true
 weight: 10
-title: Publications
+title: " Recent Publications"
 active: true
 design:
   columns: "2"
