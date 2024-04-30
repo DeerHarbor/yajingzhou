@@ -32,7 +32,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-
         * Major: Forensic and Neurodevelopmental Sciences
         * Supervisor: Professor Andre Strydom, Doctor Rory Sheehan
 
@@ -45,7 +44,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-
         * Course name: Introduction to Applied Statistical Methods 2023-2024 [MSc Addictions]
     
   - title: Research Assistant 
@@ -57,11 +55,11 @@ experience:
     date_end: '2023-07-01'
     description: |2-
         Responsibilities include:
-        
         * Data collection
         * Data analysis
         * Neurocognitive assessment
         * Cell experiments
+        * Supervisor: [Prof. Tengfei Guo](http://guotf-lab.szbl.ac.cn/)
 
   - title: Master Student
     company: Queen Mary University of London 
